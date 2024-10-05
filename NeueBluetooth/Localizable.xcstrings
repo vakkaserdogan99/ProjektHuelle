@@ -170,6 +170,9 @@
         }
       }
     },
+    "Close" : {
+
+    },
     "Connected" : {
       "localizations" : {
         "de" : {
@@ -292,6 +295,9 @@
           }
         }
       }
+    },
+    "Favorite Patterns" : {
+
     },
     "Favorites" : {
       "localizations" : {
@@ -953,6 +959,9 @@
           }
         }
       }
+    },
+    "Wallpaper Colors" : {
+
     },
     "wind" : {
       "comment" : "Nature: wind",

@@ -127,7 +127,7 @@ struct MusicView: View {
                                             .padding(.bottom, 100)
 
                 }
-                .navigationTitle(languageManager.localizedString(forKey: "Music"))
+                //.navigationTitle(languageManager.localizedString(forKey: "Music"))
 
             }
 
